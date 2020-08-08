@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UsingStrings</string>
+    <string name="msg1">here, i am the text massage 1</string>
+    <string name="msg2">here, i am the text massage 2</string>
+</resources>
